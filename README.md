@@ -1,7 +1,7 @@
 # midFinal
 
-// Kolby: Javascript, Buttons, and the Navbar
+Kolby: Javascript, Buttons, and the Navbar
 
-// Winston: CSS and HTML
+Winston: CSS and HTML
 
-//Kayden: Images and HTML
+Kayden: Images and HTML
