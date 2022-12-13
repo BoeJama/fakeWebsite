@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(34, 32, 32);
+  background-color: black;
 }
 h1 {
     color: whitesmoke;
@@ -45,15 +45,43 @@ width: 35%;
   p {
     color: whitesmoke;
 text-align: center;
+font-size: 20px;
   }
 
   .navbar {
-    background-color: whitesmoke;
-    padding: 1%;
-    border-radius: 10px;
-    border-style: line;
-  width: 100%;
+    background-color: lightgrey;
+  width: 98%;
+  padding: 1%;
+  border-radius: 10px;
+  border-style: line;
   text-align: center;
+  list-style-type: none;
+  overflow: hidden;
   display: grid;
   grid-template-columns: auto auto auto;
+  gap: 20%;
   }
+  li {
+    float: left;
+  }
+ 
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ 
+  li a:hover {
+    background-color: #111;
+  }
+
+h2 {
+  text-align: center;
+    color: whitesmoke;
+    padding: 14px 34px;
+    width: 30%;
+    margin: auto auto auto auto;
+    font-size: 35px;
+}
