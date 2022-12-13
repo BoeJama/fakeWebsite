@@ -1,6 +1,6 @@
 # midFinal
 
-Kolby: Javascript, Buttons, and the Navbar
+Kolby: Javascript, Navbar, and HTML
 
 Winston: CSS and HTML
 
