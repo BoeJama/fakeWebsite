@@ -7,7 +7,9 @@ h1 {
     padding: 14px 34px;
     width: 30%;
     margin: auto;
-    font-size: 100px;
+    font-size: 70px;
+    font-family: "Lucida Console";
+    font-weight: bold;
   }
   h4 {
 text-align: center;
@@ -15,6 +17,7 @@ text-align: center;
     padding: 14px 34px;
     width: 30%;
     margin: auto auto auto auto;
+    font-family: "Lucida Console"
   }
   img {
 display: block;
@@ -31,7 +34,7 @@ width: 35%;
      cursor: pointer;
      height: 8%;
   }
-  
+ 
   .button2 {
     display: flex;
     text-align: center;
@@ -41,25 +44,23 @@ width: 35%;
     cursor: pointer;
     height: 8%;
   }
-
+ 
   p {
     color: whitesmoke;
 text-align: center;
-font-size: 20px;
   }
-
+ 
   .navbar {
     background-color: lightgrey;
-  width: 98%;
-  padding: 1%;
-  border-radius: 10px;
-  border-style: line;
+  width: 100%;
+  padding: 0%;
   text-align: center;
   list-style-type: none;
   overflow: hidden;
   display: grid;
   grid-template-columns: auto auto auto;
-  gap: 20%;
+  align-items: center;
+  gap: 0%;
   }
   li {
     float: left;
@@ -67,21 +68,21 @@ font-size: 20px;
  
   li a {
     display: block;
-    color: white;
+    color: whitesmoke;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px;
     text-decoration: none;
   }
  
   li a:hover {
     background-color: #111;
+    text-align: center;
   }
-
-h2 {
-  text-align: center;
-    color: whitesmoke;
-    padding: 14px 34px;
-    width: 30%;
-    margin: auto auto auto auto;
-    font-size: 35px;
-}
+  h2 {
+    text-align: center;
+      color: whitesmoke;
+      padding: 14px 34px;
+      width: 30%;
+      margin: auto auto auto auto;
+      font-size: 35px;
+  }
