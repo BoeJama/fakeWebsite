@@ -1,4 +1,4 @@
-# midFinal
+# fakeWebsite
 
 Kolby: Javascript, Navbar, and HTML
 
